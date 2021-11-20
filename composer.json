@@ -1,0 +1,19 @@
+{
+    "name": "sdon2/ripcord",
+    "version": "0.1",
+    "description": "Simple XML-RPC API",
+    "keywords": ["php", "xmlrpc", "xmlrpc-client"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saravanakumar Arumugam",
+            "email": "saravanakumar.a.o@gmail.com",
+            "homepage": "https://github.com/sdon2"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ripcord\\": "src/"
+        }
+    }
+}
