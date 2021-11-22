@@ -1,6 +1,6 @@
 {
     "name": "sdon2/ripcord",
-    "version": "0.1",
+    "version": "1.0.0",
     "description": "Simple XML-RPC API",
     "keywords": ["php", "xmlrpc", "xmlrpc-client"],
     "license": "MIT",
